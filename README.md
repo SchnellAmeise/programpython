@@ -1,4 +1,4 @@
-# Begginner programs in python to learn the language
+# Beginner programs in python to learn the language
 
 # bullet.points.adder.py
 * This program is to simple add bullet points to text copy from the clipboard.
