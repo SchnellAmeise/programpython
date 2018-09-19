@@ -28,4 +28,4 @@
 * In this file with random module I analyze the frequence of random generator in python, with a simulation from a dice.
 
 # word.count.from.text.py
-* Take a text file and create another text file with the most word in the original text, excluding a few words.
+* Take a text file and create another text file with the most word in the original text, excluding a few words. (NEED A TEST.TXT FILE TO WORK)
